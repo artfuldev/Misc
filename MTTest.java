@@ -64,7 +64,7 @@ public class MTTest
 		{
 			int[] returnArray=new int[2];
 			run();
-			System.out.println(minVal+","+minInd);
+			System.out.println("Thread Minimum: "+minVal+" at "+minInd);
 			returnArray[0]=minVal;
 			returnArray[1]=minInd;
 			return returnArray;
@@ -74,6 +74,6 @@ public class MTTest
 	{
 		//Create as many threads as there are available (logical) processor cores
 		MTTest test=new MTTest(Runtime.getRuntime().availableProcessors());
-		System.out.println("Final Minimum:"+test.minValue+","+test.minIndex);
+		System.out.println("Final Minimum: "+test.minValue+" at "+test.minIndex);
 	}
 }
