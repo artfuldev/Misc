@@ -1,4 +1,5 @@
 
+import java.io.File;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
@@ -9,7 +10,7 @@ public class MTTest
 {
 	public int minValue=(int)Double.POSITIVE_INFINITY;
 	public int minIndex=0;
-	public final int testSize=minValue/4096;
+	public final int testSize=200;
 	public int noOfThreads;
 	public int[] array;
 	public Minimum[] mins;
@@ -17,6 +18,7 @@ public class MTTest
 	public MTTest(int n) throws InterruptedException, ExecutionException
 	{
 		noOfThreads=n;
+		System.out.println("Creating "+n+" threads...");
 		array=new int[testSize];
 	    for (int i=0;i<array.length;i++)
 	      array[i] = testSize-i;
@@ -70,7 +72,8 @@ public class MTTest
 	}
 	public static void main(String[] args) throws InterruptedException, ExecutionException
 	{
-		MTTest test=new MTTest(4);
+		//Create as many threads as there are available (logical) processor cores
+		MTTest test=new MTTest(Runtime.getRuntime().availableProcessors());
 		System.out.println("Final Minimum:"+test.minValue+","+test.minIndex);
 	}
 }
