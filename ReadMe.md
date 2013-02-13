@@ -1,7 +1,7 @@
 #Misc
 For all projects and source code under this repository,
 * Author: Kenshin Himura *(Sudarsan Balaji)*
-* License: *GNU GPL v3 and CC-BY-NC-SA Licenses* (see gpl.txt and ccbyncsa.txt)
+* License: *GNU GPL v3* (see COPYING.txt)
 * ReadMe Version: 1.0
 
 ##Description
