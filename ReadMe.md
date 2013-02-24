@@ -18,3 +18,7 @@ C++ code to do black box system identification for determining the mathematical 
 ###Multi-Threading
 ####MTTest.java
 My first attempt at trying out multi-threading in java. Using nested classes, and finding the minimum of a large array using multi-threading was indeed a fun project.
+
+###Design and Simulation of a Robotic Hand
+####Robotics Hand - Thumb.oxps
+An XPS document containing the design of a robotic hand (simulated using Workspace 5 Demo). As Workspace 5 only allows for serial manipulators, a complete robotic hand having 5 fingers as 5 end-effectors could not be modelled, as it will be a parallel manipulator. Hence the design was stopped with the Robotic Hand having a thumb alone. It is plain to note that the other fingers may be modelled the same way.
