@@ -1,0 +1,856 @@
+Enter the number of Queens (max. 999):
+100
+
+Time: 569.979628 ms, Temperature: 1000.0, Best Energy: 84.0, Accepted: 4050
+Time: 1085.956882 ms, Temperature: 990.0, Best Energy: 82.0, Accepted: 4113
+Time: 1603.07815 ms, Temperature: 980.1, Best Energy: 82.0, Accepted: 4117
+Time: 2126.454361 ms, Temperature: 970.299, Best Energy: 82.0, Accepted: 4111
+Time: 2639.454278 ms, Temperature: 960.59601, Best Energy: 82.0, Accepted: 4058
+Time: 3165.171507 ms, Temperature: 950.9900498999999, Best Energy: 82.0, Accepted: 4033
+Time: 3695.039524 ms, Temperature: 941.480149401, Best Energy: 82.0, Accepted: 4153
+Time: 4217.538928 ms, Temperature: 932.0653479069899, Best Energy: 82.0, Accepted: 4135
+Time: 4742.877536 ms, Temperature: 922.74469442792, Best Energy: 82.0, Accepted: 4120
+Time: 5263.743798 ms, Temperature: 913.5172474836407, Best Energy: 74.0, Accepted: 4076
+Time: 5788.470091 ms, Temperature: 904.3820750088043, Best Energy: 74.0, Accepted: 4087
+Time: 6303.03748 ms, Temperature: 895.3382542587163, Best Energy: 74.0, Accepted: 4101
+Time: 6825.936792 ms, Temperature: 886.3848717161292, Best Energy: 74.0, Accepted: 4091
+Time: 7355.788052 ms, Temperature: 877.5210229989679, Best Energy: 74.0, Accepted: 4085
+Time: 7892.075412 ms, Temperature: 868.7458127689781, Best Energy: 74.0, Accepted: 4063
+Time: 8414.652262 ms, Temperature: 860.0583546412884, Best Energy: 74.0, Accepted: 4097
+Time: 8938.759899 ms, Temperature: 851.4577710948755, Best Energy: 74.0, Accepted: 4109
+Time: 9468.077195 ms, Temperature: 842.9431933839268, Best Energy: 74.0, Accepted: 4079
+Time: 9988.834762 ms, Temperature: 834.5137614500875, Best Energy: 74.0, Accepted: 4096
+Time: 10501.09329 ms, Temperature: 826.1686238355866, Best Energy: 74.0, Accepted: 4071
+Time: 11019.937826 ms, Temperature: 817.9069375972307, Best Energy: 74.0, Accepted: 4125
+Time: 11543.728436 ms, Temperature: 809.7278682212584, Best Energy: 74.0, Accepted: 4138
+Time: 12056.23515 ms, Temperature: 801.6305895390458, Best Energy: 74.0, Accepted: 4111
+Time: 12579.527575 ms, Temperature: 793.6142836436553, Best Energy: 74.0, Accepted: 4047
+Time: 13103.622078 ms, Temperature: 785.6781408072187, Best Energy: 74.0, Accepted: 4106
+Time: 13627.474282 ms, Temperature: 777.8213593991466, Best Energy: 74.0, Accepted: 4121
+Time: 14150.493158 ms, Temperature: 770.0431458051551, Best Energy: 74.0, Accepted: 4097
+Time: 14665.518425 ms, Temperature: 762.3427143471035, Best Energy: 74.0, Accepted: 4136
+Time: 15183.799559 ms, Temperature: 754.7192872036325, Best Energy: 74.0, Accepted: 4036
+Time: 15699.305801 ms, Temperature: 747.1720943315961, Best Energy: 74.0, Accepted: 4101
+Time: 16232.696441 ms, Temperature: 739.7003733882801, Best Energy: 74.0, Accepted: 4075
+Time: 16751.149675 ms, Temperature: 732.3033696543973, Best Energy: 74.0, Accepted: 4070
+Time: 17265.400944 ms, Temperature: 724.9803359578533, Best Energy: 74.0, Accepted: 4060
+Time: 17786.875898 ms, Temperature: 717.7305325982747, Best Energy: 74.0, Accepted: 4105
+Time: 18313.308249 ms, Temperature: 710.553227272292, Best Energy: 74.0, Accepted: 4035
+Time: 18860.412117 ms, Temperature: 703.4476949995691, Best Energy: 74.0, Accepted: 4103
+Time: 19433.624062 ms, Temperature: 696.4132180495734, Best Energy: 74.0, Accepted: 4185
+Time: 20021.503939 ms, Temperature: 689.4490858690776, Best Energy: 74.0, Accepted: 4133
+Time: 20621.769608 ms, Temperature: 682.5545950103868, Best Energy: 74.0, Accepted: 4071
+Time: 21193.213448 ms, Temperature: 675.7290490602829, Best Energy: 74.0, Accepted: 4079
+Time: 21787.97734 ms, Temperature: 668.9717585696801, Best Energy: 74.0, Accepted: 4061
+Time: 22367.563792 ms, Temperature: 662.2820409839833, Best Energy: 74.0, Accepted: 4129
+Time: 22974.616103 ms, Temperature: 655.6592205741434, Best Energy: 74.0, Accepted: 4067
+Time: 23554.459346 ms, Temperature: 649.102628368402, Best Energy: 74.0, Accepted: 4116
+Time: 24094.841337 ms, Temperature: 642.6116020847179, Best Energy: 74.0, Accepted: 4133
+Time: 24627.296294 ms, Temperature: 636.1854860638707, Best Energy: 74.0, Accepted: 4142
+Time: 25145.803876 ms, Temperature: 629.823631203232, Best Energy: 74.0, Accepted: 4068
+Time: 25684.901907 ms, Temperature: 623.5253948911997, Best Energy: 74.0, Accepted: 4033
+Time: 26199.07256 ms, Temperature: 617.2901409422876, Best Energy: 74.0, Accepted: 4068
+Time: 26730.897086 ms, Temperature: 611.1172395328647, Best Energy: 74.0, Accepted: 4118
+Time: 27251.10982 ms, Temperature: 605.006067137536, Best Energy: 74.0, Accepted: 4108
+Time: 27770.222924 ms, Temperature: 598.9560064661606, Best Energy: 74.0, Accepted: 4108
+Time: 28302.116291 ms, Temperature: 592.966446401499, Best Energy: 74.0, Accepted: 4097
+Time: 28828.667753 ms, Temperature: 587.036781937484, Best Energy: 74.0, Accepted: 4106
+Time: 29348.284476 ms, Temperature: 581.1664141181092, Best Energy: 74.0, Accepted: 4074
+Time: 29873.179246 ms, Temperature: 575.3547499769281, Best Energy: 74.0, Accepted: 4154
+Time: 30402.541378 ms, Temperature: 569.6012024771588, Best Energy: 74.0, Accepted: 4104
+Time: 30933.263557 ms, Temperature: 563.9051904523873, Best Energy: 74.0, Accepted: 4120
+Time: 31462.051871 ms, Temperature: 558.2661385478634, Best Energy: 74.0, Accepted: 4115
+Time: 31991.569799 ms, Temperature: 552.6834771623847, Best Energy: 74.0, Accepted: 4043
+Time: 32512.819665 ms, Temperature: 547.1566423907609, Best Energy: 74.0, Accepted: 4147
+Time: 33046.357496 ms, Temperature: 541.6850759668533, Best Energy: 74.0, Accepted: 4096
+Time: 33580.532551 ms, Temperature: 536.2682252071847, Best Energy: 74.0, Accepted: 4066
+Time: 34109.865698 ms, Temperature: 530.9055429551129, Best Energy: 74.0, Accepted: 4066
+Time: 34638.702019 ms, Temperature: 525.5964875255618, Best Energy: 74.0, Accepted: 4126
+Time: 35170.298286 ms, Temperature: 520.3405226503062, Best Energy: 74.0, Accepted: 4071
+Time: 35700.006884 ms, Temperature: 515.1371174238031, Best Energy: 74.0, Accepted: 4098
+Time: 36230.76167 ms, Temperature: 509.9857462495651, Best Energy: 74.0, Accepted: 4107
+Time: 36761.18992 ms, Temperature: 504.88588878706946, Best Energy: 74.0, Accepted: 4095
+Time: 37296.960979 ms, Temperature: 499.83702989919874, Best Energy: 74.0, Accepted: 4081
+Time: 37832.21619 ms, Temperature: 494.83865960020677, Best Energy: 74.0, Accepted: 4054
+Time: 38367.487253 ms, Temperature: 489.8902730042047, Best Energy: 74.0, Accepted: 4117
+Time: 38901.446277 ms, Temperature: 484.99137027416265, Best Energy: 74.0, Accepted: 4097
+Time: 39427.60689 ms, Temperature: 480.14145657142103, Best Energy: 74.0, Accepted: 4078
+Time: 39944.721365 ms, Temperature: 475.34004200570683, Best Energy: 74.0, Accepted: 4111
+Time: 40473.306781 ms, Temperature: 470.5866415856498, Best Energy: 74.0, Accepted: 4039
+Time: 41001.994099 ms, Temperature: 465.88077516979325, Best Energy: 74.0, Accepted: 4127
+Time: 41539.314515 ms, Temperature: 461.2219674180953, Best Energy: 74.0, Accepted: 4094
+Time: 42066.209725 ms, Temperature: 456.60974774391434, Best Energy: 74.0, Accepted: 4094
+Time: 42595.509358 ms, Temperature: 452.0436502664752, Best Energy: 74.0, Accepted: 4068
+Time: 43126.471118 ms, Temperature: 447.5232137638104, Best Energy: 74.0, Accepted: 4102
+Time: 43653.989965 ms, Temperature: 443.0479816261723, Best Energy: 74.0, Accepted: 4046
+Time: 44177.280578 ms, Temperature: 438.6175018099106, Best Energy: 74.0, Accepted: 4059
+Time: 44708.033554 ms, Temperature: 434.2313267918115, Best Energy: 74.0, Accepted: 4100
+Time: 45237.461356 ms, Temperature: 429.88901352389337, Best Energy: 74.0, Accepted: 4084
+Time: 45768.957533 ms, Temperature: 425.59012338865443, Best Energy: 74.0, Accepted: 4041
+Time: 46295.738614 ms, Temperature: 421.3342221547679, Best Energy: 74.0, Accepted: 4114
+Time: 46822.317702 ms, Temperature: 417.1208799332202, Best Energy: 74.0, Accepted: 4135
+Time: 47350.552125 ms, Temperature: 412.949671133888, Best Energy: 74.0, Accepted: 4080
+Time: 47876.117633 ms, Temperature: 408.8201744225491, Best Energy: 74.0, Accepted: 4129
+Time: 48441.110427 ms, Temperature: 404.7319726783236, Best Energy: 74.0, Accepted: 4096
+Time: 48976.414098 ms, Temperature: 400.68465295154033, Best Energy: 74.0, Accepted: 4093
+Time: 49497.714688 ms, Temperature: 396.6778064220249, Best Energy: 74.0, Accepted: 4096
+Time: 50017.285216 ms, Temperature: 392.71102835780465, Best Energy: 74.0, Accepted: 4124
+Time: 50537.433186 ms, Temperature: 388.7839180742266, Best Energy: 74.0, Accepted: 4026
+Time: 51058.002349 ms, Temperature: 384.89607889348434, Best Energy: 74.0, Accepted: 4073
+Time: 51583.91387 ms, Temperature: 381.0471181045495, Best Energy: 74.0, Accepted: 4094
+Time: 52101.248905 ms, Temperature: 377.236646923504, Best Energy: 74.0, Accepted: 4121
+Time: 52624.121042 ms, Temperature: 373.46428045426893, Best Energy: 74.0, Accepted: 4124
+Time: 53146.415285 ms, Temperature: 369.7296376497262, Best Energy: 74.0, Accepted: 4100
+Time: 53676.819078 ms, Temperature: 366.03234127322895, Best Energy: 74.0, Accepted: 4100
+Time: 54217.233224 ms, Temperature: 362.37201786049667, Best Energy: 74.0, Accepted: 4073
+Time: 54762.606124 ms, Temperature: 358.7482976818917, Best Energy: 74.0, Accepted: 4105
+Time: 55291.324239 ms, Temperature: 355.16081470507277, Best Energy: 74.0, Accepted: 4070
+Time: 55813.107163 ms, Temperature: 351.60920655802204, Best Energy: 74.0, Accepted: 4052
+Time: 56341.318488 ms, Temperature: 348.0931144924418, Best Energy: 74.0, Accepted: 4051
+Time: 56870.229083 ms, Temperature: 344.61218334751743, Best Energy: 74.0, Accepted: 4080
+Time: 57401.493831 ms, Temperature: 341.16606151404227, Best Energy: 74.0, Accepted: 4088
+Time: 57940.035706 ms, Temperature: 337.75440089890185, Best Energy: 74.0, Accepted: 4071
+Time: 58470.937684 ms, Temperature: 334.3768568899128, Best Energy: 74.0, Accepted: 4027
+Time: 59003.208765 ms, Temperature: 331.0330883210137, Best Energy: 74.0, Accepted: 4115
+Time: 59539.664603 ms, Temperature: 327.7227574378035, Best Energy: 74.0, Accepted: 4083
+Time: 60073.747267 ms, Temperature: 324.44552986342546, Best Energy: 74.0, Accepted: 4058
+Time: 60613.245658 ms, Temperature: 321.2010745647912, Best Energy: 74.0, Accepted: 4090
+Time: 61144.932957 ms, Temperature: 317.9890638191433, Best Energy: 74.0, Accepted: 4078
+Time: 61675.548705 ms, Temperature: 314.8091731809519, Best Energy: 74.0, Accepted: 4061
+Time: 62202.862391 ms, Temperature: 311.6610814491424, Best Energy: 74.0, Accepted: 4083
+Time: 62732.901603 ms, Temperature: 308.54447063465096, Best Energy: 74.0, Accepted: 4045
+Time: 63264.781835 ms, Temperature: 305.45902592830447, Best Energy: 74.0, Accepted: 4051
+Time: 63795.80836 ms, Temperature: 302.40443566902144, Best Energy: 74.0, Accepted: 4041
+Time: 64321.193162 ms, Temperature: 299.3803913123312, Best Energy: 74.0, Accepted: 4101
+Time: 64850.331112 ms, Temperature: 296.3865873992079, Best Energy: 74.0, Accepted: 4079
+Time: 65375.477238 ms, Temperature: 293.4227215252158, Best Energy: 74.0, Accepted: 4075
+Time: 65907.275044 ms, Temperature: 290.48849430996364, Best Energy: 70.0, Accepted: 4049
+Time: 66441.24222 ms, Temperature: 287.583609366864, Best Energy: 70.0, Accepted: 4101
+Time: 66977.598873 ms, Temperature: 284.70777327319536, Best Energy: 70.0, Accepted: 4073
+Time: 67504.18068 ms, Temperature: 281.8606955404634, Best Energy: 70.0, Accepted: 4037
+Time: 68026.250286 ms, Temperature: 279.04208858505876, Best Energy: 70.0, Accepted: 4092
+Time: 68551.554926 ms, Temperature: 276.25166769920816, Best Energy: 70.0, Accepted: 4126
+Time: 69086.349543 ms, Temperature: 273.48915102221605, Best Energy: 70.0, Accepted: 4115
+Time: 69603.420087 ms, Temperature: 270.7542595119939, Best Energy: 70.0, Accepted: 4101
+Time: 70136.80348 ms, Temperature: 268.04671691687395, Best Energy: 70.0, Accepted: 4106
+Time: 70661.072348 ms, Temperature: 265.3662497477052, Best Energy: 70.0, Accepted: 4049
+Time: 71178.763359 ms, Temperature: 262.7125872502281, Best Energy: 70.0, Accepted: 4077
+Time: 71701.351531 ms, Temperature: 260.08546137772584, Best Energy: 70.0, Accepted: 4072
+Time: 72218.610479 ms, Temperature: 257.4846067639486, Best Energy: 70.0, Accepted: 4133
+Time: 72739.510709 ms, Temperature: 254.9097606963091, Best Energy: 70.0, Accepted: 4025
+Time: 73260.316737 ms, Temperature: 252.360663089346, Best Energy: 70.0, Accepted: 4133
+Time: 73779.473771 ms, Temperature: 249.83705645845254, Best Energy: 70.0, Accepted: 4103
+Time: 74289.480501 ms, Temperature: 247.33868589386802, Best Energy: 70.0, Accepted: 4043
+Time: 74803.705049 ms, Temperature: 244.86529903492934, Best Energy: 70.0, Accepted: 4045
+Time: 75327.309518 ms, Temperature: 242.41664604458003, Best Energy: 70.0, Accepted: 4095
+Time: 75862.686106 ms, Temperature: 239.99247958413423, Best Energy: 70.0, Accepted: 4062
+Time: 76386.880699 ms, Temperature: 237.5925547882929, Best Energy: 70.0, Accepted: 4050
+Time: 76954.889778 ms, Temperature: 235.21662924040996, Best Energy: 70.0, Accepted: 4071
+Time: 77591.828675 ms, Temperature: 232.86446294800587, Best Energy: 70.0, Accepted: 4074
+Time: 78183.26016 ms, Temperature: 230.5358183185258, Best Energy: 70.0, Accepted: 4052
+Time: 78705.13638 ms, Temperature: 228.23046013534054, Best Energy: 70.0, Accepted: 4046
+Time: 79225.743133 ms, Temperature: 225.94815553398712, Best Energy: 70.0, Accepted: 4038
+Time: 79745.344458 ms, Temperature: 223.68867397864724, Best Energy: 70.0, Accepted: 4100
+Time: 80269.479722 ms, Temperature: 221.45178723886076, Best Energy: 70.0, Accepted: 4079
+Time: 80787.255877 ms, Temperature: 219.23726936647216, Best Energy: 70.0, Accepted: 4058
+Time: 81313.856252 ms, Temperature: 217.04489667280743, Best Energy: 70.0, Accepted: 4020
+Time: 81839.004191 ms, Temperature: 214.87444770607934, Best Energy: 70.0, Accepted: 4102
+Time: 82363.579669 ms, Temperature: 212.72570322901854, Best Energy: 70.0, Accepted: 4042
+Time: 82880.257552 ms, Temperature: 210.59844619672836, Best Energy: 70.0, Accepted: 4102
+Time: 83403.120179 ms, Temperature: 208.49246173476106, Best Energy: 70.0, Accepted: 4006
+Time: 83921.024051 ms, Temperature: 206.40753711741345, Best Energy: 70.0, Accepted: 3983
+Time: 84469.826731 ms, Temperature: 204.3434617462393, Best Energy: 70.0, Accepted: 4095
+Time: 85050.439897 ms, Temperature: 202.30002712877692, Best Energy: 70.0, Accepted: 4092
+Time: 85637.52766 ms, Temperature: 200.27702685748915, Best Energy: 70.0, Accepted: 4046
+Time: 86267.877377 ms, Temperature: 198.27425658891426, Best Energy: 70.0, Accepted: 4014
+Time: 86881.995313 ms, Temperature: 196.29151402302512, Best Energy: 70.0, Accepted: 4005
+Time: 87480.046322 ms, Temperature: 194.32859888279486, Best Energy: 70.0, Accepted: 4094
+Time: 88085.849999 ms, Temperature: 192.38531289396693, Best Energy: 70.0, Accepted: 4087
+Time: 88652.524848 ms, Temperature: 190.46145976502726, Best Energy: 70.0, Accepted: 4079
+Time: 89234.760286 ms, Temperature: 188.556845167377, Best Energy: 70.0, Accepted: 4059
+Time: 89764.787723 ms, Temperature: 186.67127671570321, Best Energy: 70.0, Accepted: 4102
+Time: 90290.869079 ms, Temperature: 184.8045639485462, Best Energy: 70.0, Accepted: 4038
+Time: 90815.443199 ms, Temperature: 182.95651830906073, Best Energy: 70.0, Accepted: 4069
+Time: 91345.604239 ms, Temperature: 181.12695312597012, Best Energy: 70.0, Accepted: 4087
+Time: 91871.720469 ms, Temperature: 179.3156835947104, Best Energy: 70.0, Accepted: 4048
+Time: 92405.943984 ms, Temperature: 177.5225267587633, Best Energy: 70.0, Accepted: 4017
+Time: 92940.254002 ms, Temperature: 175.74730149117565, Best Energy: 70.0, Accepted: 4113
+Time: 93464.356657 ms, Temperature: 173.98982847626388, Best Energy: 70.0, Accepted: 4053
+Time: 93992.429848 ms, Temperature: 172.24993019150125, Best Energy: 70.0, Accepted: 4048
+Time: 94521.102674 ms, Temperature: 170.52743088958624, Best Energy: 70.0, Accepted: 4056
+Time: 95051.885993 ms, Temperature: 168.82215658069038, Best Energy: 70.0, Accepted: 4019
+Time: 95582.139877 ms, Temperature: 167.13393501488346, Best Energy: 70.0, Accepted: 4052
+Time: 96113.507432 ms, Temperature: 165.46259566473464, Best Energy: 70.0, Accepted: 4028
+Time: 96654.156178 ms, Temperature: 163.80796970808728, Best Energy: 70.0, Accepted: 4049
+Time: 97191.431304 ms, Temperature: 162.1698900110064, Best Energy: 70.0, Accepted: 4033
+Time: 97726.809703 ms, Temperature: 160.54819111089634, Best Energy: 70.0, Accepted: 4040
+Time: 98259.876069 ms, Temperature: 158.94270919978737, Best Energy: 70.0, Accepted: 4009
+Time: 98788.576068 ms, Temperature: 157.3532821077895, Best Energy: 70.0, Accepted: 4016
+Time: 99325.085348 ms, Temperature: 155.77974928671162, Best Energy: 70.0, Accepted: 4044
+Time: 99854.826101 ms, Temperature: 154.2219517938445, Best Energy: 70.0, Accepted: 4078
+Time: 100381.418777 ms, Temperature: 152.67973227590608, Best Energy: 70.0, Accepted: 4036
+Time: 100912.826639 ms, Temperature: 151.15293495314702, Best Energy: 70.0, Accepted: 4030
+Time: 101445.345908 ms, Temperature: 149.64140560361557, Best Energy: 70.0, Accepted: 4048
+Time: 101968.577192 ms, Temperature: 148.14499154757942, Best Energy: 70.0, Accepted: 4064
+Time: 102488.52 ms, Temperature: 146.66354163210363, Best Energy: 70.0, Accepted: 4051
+Time: 103002.474169 ms, Temperature: 145.1969062157826, Best Energy: 70.0, Accepted: 4055
+Time: 103521.526584 ms, Temperature: 143.7449371536248, Best Energy: 70.0, Accepted: 4037
+Time: 104034.940901 ms, Temperature: 142.30748778208854, Best Energy: 70.0, Accepted: 4046
+Time: 104547.023705 ms, Temperature: 140.88441290426766, Best Energy: 70.0, Accepted: 4009
+Time: 105055.582528 ms, Temperature: 139.47556877522499, Best Energy: 70.0, Accepted: 3988
+Time: 105571.609147 ms, Temperature: 138.08081308747273, Best Energy: 70.0, Accepted: 4023
+Time: 106082.893496 ms, Temperature: 136.700004956598, Best Energy: 70.0, Accepted: 4054
+Time: 106602.524712 ms, Temperature: 135.33300490703203, Best Energy: 70.0, Accepted: 4057
+Time: 107111.738874 ms, Temperature: 133.97967485796173, Best Energy: 66.0, Accepted: 4051
+Time: 107627.21115 ms, Temperature: 132.6398781093821, Best Energy: 66.0, Accepted: 4030
+Time: 108143.418021 ms, Temperature: 131.31347932828828, Best Energy: 66.0, Accepted: 3953
+Time: 108662.166091 ms, Temperature: 130.0003445350054, Best Energy: 66.0, Accepted: 4028
+Time: 109177.735286 ms, Temperature: 128.70034108965535, Best Energy: 66.0, Accepted: 4022
+Time: 109703.301247 ms, Temperature: 127.4133376787588, Best Energy: 66.0, Accepted: 4070
+Time: 110226.464596 ms, Temperature: 126.1392043019712, Best Energy: 66.0, Accepted: 4039
+Time: 110744.863483 ms, Temperature: 124.8778122589515, Best Energy: 66.0, Accepted: 4023
+Time: 111264.934461 ms, Temperature: 123.62903413636198, Best Energy: 66.0, Accepted: 4067
+Time: 111787.956054 ms, Temperature: 122.39274379499835, Best Energy: 66.0, Accepted: 4032
+Time: 112302.537031 ms, Temperature: 121.16881635704837, Best Energy: 66.0, Accepted: 4067
+Time: 112816.425077 ms, Temperature: 119.95712819347789, Best Energy: 66.0, Accepted: 4062
+Time: 113341.463867 ms, Temperature: 118.7575569115431, Best Energy: 66.0, Accepted: 4012
+Time: 113865.236814 ms, Temperature: 117.56998134242767, Best Energy: 66.0, Accepted: 3981
+Time: 114381.926473 ms, Temperature: 116.3942815290034, Best Energy: 66.0, Accepted: 4032
+Time: 114908.256922 ms, Temperature: 115.23033871371337, Best Energy: 66.0, Accepted: 4064
+Time: 115441.946926 ms, Temperature: 114.07803532657623, Best Energy: 66.0, Accepted: 4023
+Time: 115973.345277 ms, Temperature: 112.93725497331046, Best Energy: 66.0, Accepted: 4008
+Time: 116507.619517 ms, Temperature: 111.80788242357735, Best Energy: 66.0, Accepted: 4006
+Time: 117037.678203 ms, Temperature: 110.68980359934157, Best Energy: 66.0, Accepted: 4025
+Time: 117577.116358 ms, Temperature: 109.58290556334816, Best Energy: 66.0, Accepted: 4049
+Time: 118111.549564 ms, Temperature: 108.48707650771468, Best Energy: 66.0, Accepted: 4000
+Time: 118645.531686 ms, Temperature: 107.40220574263753, Best Energy: 66.0, Accepted: 4022
+Time: 119175.967634 ms, Temperature: 106.32818368521116, Best Energy: 66.0, Accepted: 3994
+Time: 119707.307562 ms, Temperature: 105.26490184835905, Best Energy: 66.0, Accepted: 4038
+Time: 120235.759374 ms, Temperature: 104.21225282987545, Best Energy: 66.0, Accepted: 4032
+Time: 120760.599796 ms, Temperature: 103.17013030157669, Best Energy: 66.0, Accepted: 4001
+Time: 121288.328787 ms, Temperature: 102.13842899856093, Best Energy: 66.0, Accepted: 4062
+Time: 121815.651531 ms, Temperature: 101.11704470857532, Best Energy: 66.0, Accepted: 3976
+Time: 122346.100613 ms, Temperature: 100.10587426148956, Best Energy: 66.0, Accepted: 4027
+Time: 122876.819621 ms, Temperature: 99.10481551887466, Best Energy: 66.0, Accepted: 4002
+Time: 123413.603808 ms, Temperature: 98.11376736368591, Best Energy: 66.0, Accepted: 4032
+Time: 123944.277074 ms, Temperature: 97.13262969004904, Best Energy: 66.0, Accepted: 3995
+Time: 124476.011474 ms, Temperature: 96.16130339314856, Best Energy: 66.0, Accepted: 4039
+Time: 125005.216452 ms, Temperature: 95.19969035921707, Best Energy: 66.0, Accepted: 4016
+Time: 125532.460844 ms, Temperature: 94.2476934556249, Best Energy: 66.0, Accepted: 4004
+Time: 126057.89456 ms, Temperature: 93.30521652106864, Best Energy: 66.0, Accepted: 3991
+Time: 126575.206044 ms, Temperature: 92.37216435585796, Best Energy: 66.0, Accepted: 3975
+Time: 127096.082271 ms, Temperature: 91.44844271229938, Best Energy: 66.0, Accepted: 4040
+Time: 127628.517301 ms, Temperature: 90.53395828517638, Best Energy: 66.0, Accepted: 4019
+Time: 128149.187912 ms, Temperature: 89.62861870232462, Best Energy: 66.0, Accepted: 3975
+Time: 128660.244907 ms, Temperature: 88.73233251530137, Best Energy: 66.0, Accepted: 3995
+Time: 129183.220305 ms, Temperature: 87.84500919014835, Best Energy: 66.0, Accepted: 3964
+Time: 129714.492299 ms, Temperature: 86.96655909824686, Best Energy: 66.0, Accepted: 4051
+Time: 130242.502991 ms, Temperature: 86.0968935072644, Best Energy: 66.0, Accepted: 4029
+Time: 130779.236001 ms, Temperature: 85.23592457219175, Best Energy: 66.0, Accepted: 3978
+Time: 131301.383052 ms, Temperature: 84.38356532646984, Best Energy: 66.0, Accepted: 3996
+Time: 131838.006461 ms, Temperature: 83.53972967320513, Best Energy: 66.0, Accepted: 4009
+Time: 132361.76084 ms, Temperature: 82.70433237647308, Best Energy: 66.0, Accepted: 3986
+Time: 132887.05144 ms, Temperature: 81.87728905270835, Best Energy: 66.0, Accepted: 3970
+Time: 133413.090225 ms, Temperature: 81.05851616218126, Best Energy: 66.0, Accepted: 3988
+Time: 133942.29792 ms, Temperature: 80.24793100055945, Best Energy: 66.0, Accepted: 3971
+Time: 134469.016953 ms, Temperature: 79.44545169055385, Best Energy: 66.0, Accepted: 3964
+Time: 134997.152644 ms, Temperature: 78.6509971736483, Best Energy: 66.0, Accepted: 3986
+Time: 135517.921987 ms, Temperature: 77.86448720191183, Best Energy: 66.0, Accepted: 3957
+Time: 136052.355193 ms, Temperature: 77.08584232989271, Best Energy: 66.0, Accepted: 3981
+Time: 136579.688353 ms, Temperature: 76.31498390659378, Best Energy: 66.0, Accepted: 3928
+Time: 137109.19813 ms, Temperature: 75.55183406752785, Best Energy: 66.0, Accepted: 4008
+Time: 137636.735546 ms, Temperature: 74.79631572685257, Best Energy: 66.0, Accepted: 3954
+Time: 138170.365314 ms, Temperature: 74.04835256958404, Best Energy: 66.0, Accepted: 4021
+Time: 138711.521303 ms, Temperature: 73.3078690438882, Best Energy: 66.0, Accepted: 4013
+Time: 139234.265271 ms, Temperature: 72.57479035344932, Best Energy: 66.0, Accepted: 4029
+Time: 139759.1614 ms, Temperature: 71.84904244991482, Best Energy: 66.0, Accepted: 3942
+Time: 140280.873672 ms, Temperature: 71.13055202541567, Best Energy: 66.0, Accepted: 3978
+Time: 140805.08004 ms, Temperature: 70.41924650516151, Best Energy: 66.0, Accepted: 3965
+Time: 141329.595736 ms, Temperature: 69.71505404010989, Best Energy: 66.0, Accepted: 3982
+Time: 141859.335131 ms, Temperature: 69.0179034997088, Best Energy: 66.0, Accepted: 4062
+Time: 142386.132968 ms, Temperature: 68.32772446471171, Best Energy: 66.0, Accepted: 3978
+Time: 142906.150051 ms, Temperature: 67.64444722006459, Best Energy: 66.0, Accepted: 4026
+Time: 143431.176613 ms, Temperature: 66.96800274786395, Best Energy: 66.0, Accepted: 3925
+Time: 143960.412841 ms, Temperature: 66.29832272038531, Best Energy: 66.0, Accepted: 3917
+Time: 144483.459344 ms, Temperature: 65.63533949318146, Best Energy: 66.0, Accepted: 3979
+Time: 144998.940677 ms, Temperature: 64.97898609824965, Best Energy: 66.0, Accepted: 3932
+Time: 145525.498932 ms, Temperature: 64.32919623726715, Best Energy: 66.0, Accepted: 3977
+Time: 146053.740601 ms, Temperature: 63.68590427489448, Best Energy: 66.0, Accepted: 3980
+Time: 146570.723736 ms, Temperature: 63.04904523214554, Best Energy: 66.0, Accepted: 3999
+Time: 147102.043284 ms, Temperature: 62.418554779824085, Best Energy: 66.0, Accepted: 3947
+Time: 147627.840675 ms, Temperature: 61.79436923202584, Best Energy: 66.0, Accepted: 3926
+Time: 148165.354024 ms, Temperature: 61.17642553970558, Best Energy: 66.0, Accepted: 3915
+Time: 148697.632804 ms, Temperature: 60.56466128430853, Best Energy: 66.0, Accepted: 3967
+Time: 149230.335043 ms, Temperature: 59.95901467146544, Best Energy: 66.0, Accepted: 3951
+Time: 149778.82613 ms, Temperature: 59.359424524750786, Best Energy: 66.0, Accepted: 3993
+Time: 150378.174232 ms, Temperature: 58.76583027950328, Best Energy: 66.0, Accepted: 3942
+Time: 150946.794268 ms, Temperature: 58.17817197670824, Best Energy: 66.0, Accepted: 3963
+Time: 151514.039313 ms, Temperature: 57.596390256941156, Best Energy: 66.0, Accepted: 3976
+Time: 152091.811917 ms, Temperature: 57.02042635437174, Best Energy: 66.0, Accepted: 4020
+Time: 152673.301437 ms, Temperature: 56.45022209082803, Best Energy: 66.0, Accepted: 3933
+Time: 153258.849355 ms, Temperature: 55.88571986991975, Best Energy: 66.0, Accepted: 3980
+Time: 153861.022167 ms, Temperature: 55.326862671220546, Best Energy: 66.0, Accepted: 3950
+Time: 154428.228263 ms, Temperature: 54.77359404450834, Best Energy: 66.0, Accepted: 3869
+Time: 154980.500123 ms, Temperature: 54.225858104063256, Best Energy: 66.0, Accepted: 3894
+Time: 155505.561106 ms, Temperature: 53.68359952302262, Best Energy: 66.0, Accepted: 3967
+Time: 156028.252085 ms, Temperature: 53.146763527792395, Best Energy: 66.0, Accepted: 3938
+Time: 156552.147314 ms, Temperature: 52.61529589251447, Best Energy: 66.0, Accepted: 3865
+Time: 157077.527588 ms, Temperature: 52.08914293358932, Best Energy: 66.0, Accepted: 3920
+Time: 157603.64427 ms, Temperature: 51.56825150425343, Best Energy: 66.0, Accepted: 3881
+Time: 158134.443441 ms, Temperature: 51.0525689892109, Best Energy: 66.0, Accepted: 3946
+Time: 158656.66522 ms, Temperature: 50.542043299318784, Best Energy: 66.0, Accepted: 3952
+Time: 159185.021018 ms, Temperature: 50.036622866325594, Best Energy: 66.0, Accepted: 3915
+Time: 159722.174768 ms, Temperature: 49.53625663766234, Best Energy: 66.0, Accepted: 3882
+Time: 160263.442623 ms, Temperature: 49.04089407128572, Best Energy: 66.0, Accepted: 3905
+Time: 160803.052426 ms, Temperature: 48.55048513057286, Best Energy: 66.0, Accepted: 3886
+Time: 161323.714885 ms, Temperature: 48.06498027926713, Best Energy: 66.0, Accepted: 3987
+Time: 161851.509546 ms, Temperature: 47.58433047647446, Best Energy: 66.0, Accepted: 3906
+Time: 162387.82091 ms, Temperature: 47.10848717170972, Best Energy: 66.0, Accepted: 3927
+Time: 162914.223822 ms, Temperature: 46.63740229999262, Best Energy: 66.0, Accepted: 3918
+Time: 163441.160699 ms, Temperature: 46.17102827699269, Best Energy: 66.0, Accepted: 3922
+Time: 163966.075849 ms, Temperature: 45.709317994222765, Best Energy: 66.0, Accepted: 3826
+Time: 164496.937066 ms, Temperature: 45.25222481428054, Best Energy: 66.0, Accepted: 3890
+Time: 165023.973127 ms, Temperature: 44.79970256613773, Best Energy: 66.0, Accepted: 3856
+Time: 165551.558097 ms, Temperature: 44.35170554047635, Best Energy: 66.0, Accepted: 3934
+Time: 166093.084101 ms, Temperature: 43.90818848507159, Best Energy: 66.0, Accepted: 3892
+Time: 166628.25915 ms, Temperature: 43.469106600220876, Best Energy: 66.0, Accepted: 3860
+Time: 167154.198297 ms, Temperature: 43.03441553421867, Best Energy: 66.0, Accepted: 3870
+Time: 167684.072655 ms, Temperature: 42.604071378876476, Best Energy: 66.0, Accepted: 3951
+Time: 168216.555239 ms, Temperature: 42.17803066508771, Best Energy: 66.0, Accepted: 3917
+Time: 168751.510633 ms, Temperature: 41.75625035843683, Best Energy: 66.0, Accepted: 3838
+Time: 169275.137295 ms, Temperature: 41.33868785485246, Best Energy: 66.0, Accepted: 3838
+Time: 169804.178325 ms, Temperature: 40.92530097630394, Best Energy: 66.0, Accepted: 3884
+Time: 170336.080296 ms, Temperature: 40.516047966540896, Best Energy: 66.0, Accepted: 3868
+Time: 170862.093718 ms, Temperature: 40.110887486875484, Best Energy: 66.0, Accepted: 3854
+Time: 171396.917773 ms, Temperature: 39.70977861200673, Best Energy: 66.0, Accepted: 3848
+Time: 171923.454289 ms, Temperature: 39.31268082588666, Best Energy: 66.0, Accepted: 3799
+Time: 172454.94639 ms, Temperature: 38.91955401762779, Best Energy: 66.0, Accepted: 3869
+Time: 172981.622399 ms, Temperature: 38.53035847745151, Best Energy: 66.0, Accepted: 3874
+Time: 173506.388546 ms, Temperature: 38.145054892676995, Best Energy: 66.0, Accepted: 3861
+Time: 174032.518362 ms, Temperature: 37.763604343750224, Best Energy: 66.0, Accepted: 3903
+Time: 174554.047211 ms, Temperature: 37.38596830031272, Best Energy: 66.0, Accepted: 3844
+Time: 175076.417088 ms, Temperature: 37.01210861730959, Best Energy: 66.0, Accepted: 3860
+Time: 175600.69456 ms, Temperature: 36.6419875311365, Best Energy: 66.0, Accepted: 3834
+Time: 176130.933046 ms, Temperature: 36.275567655825135, Best Energy: 66.0, Accepted: 3876
+Time: 176652.612257 ms, Temperature: 35.912811979266884, Best Energy: 66.0, Accepted: 3841
+Time: 177175.595806 ms, Temperature: 35.55368385947421, Best Energy: 66.0, Accepted: 3826
+Time: 177700.571192 ms, Temperature: 35.19814702087947, Best Energy: 66.0, Accepted: 3843
+Time: 178218.552509 ms, Temperature: 34.84616555067067, Best Energy: 66.0, Accepted: 3889
+Time: 178732.642093 ms, Temperature: 34.497703895163966, Best Energy: 66.0, Accepted: 3836
+Time: 179253.156909 ms, Temperature: 34.152726856212325, Best Energy: 66.0, Accepted: 3823
+Time: 179792.095974 ms, Temperature: 33.8111995876502, Best Energy: 66.0, Accepted: 3871
+Time: 180321.842162 ms, Temperature: 33.4730875917737, Best Energy: 66.0, Accepted: 3799
+Time: 180856.765853 ms, Temperature: 33.13835671585596, Best Energy: 66.0, Accepted: 3882
+Time: 181385.246651 ms, Temperature: 32.8069731486974, Best Energy: 66.0, Accepted: 3794
+Time: 181908.946682 ms, Temperature: 32.478903417210425, Best Energy: 66.0, Accepted: 3842
+Time: 182449.135739 ms, Temperature: 32.15411438303832, Best Energy: 66.0, Accepted: 3835
+Time: 182979.998315 ms, Temperature: 31.832573239207935, Best Energy: 66.0, Accepted: 3854
+Time: 183503.776697 ms, Temperature: 31.514247506815856, Best Energy: 66.0, Accepted: 3866
+Time: 184029.845825 ms, Temperature: 31.1991050317477, Best Energy: 66.0, Accepted: 3847
+Time: 184556.509152 ms, Temperature: 30.887113981430222, Best Energy: 66.0, Accepted: 3867
+Time: 185085.217756 ms, Temperature: 30.578242841615918, Best Energy: 66.0, Accepted: 3810
+Time: 185606.48302 ms, Temperature: 30.27246041319976, Best Energy: 66.0, Accepted: 3805
+Time: 186132.087477 ms, Temperature: 29.96973580906776, Best Energy: 66.0, Accepted: 3790
+Time: 186653.321491 ms, Temperature: 29.67003845097708, Best Energy: 66.0, Accepted: 3737
+Time: 187182.618407 ms, Temperature: 29.373338066467312, Best Energy: 66.0, Accepted: 3838
+Time: 187708.500036 ms, Temperature: 29.07960468580264, Best Energy: 66.0, Accepted: 3830
+Time: 188237.008461 ms, Temperature: 28.788808638944612, Best Energy: 66.0, Accepted: 3829
+Time: 188771.486956 ms, Temperature: 28.500920552555165, Best Energy: 66.0, Accepted: 3817
+Time: 189300.41612 ms, Temperature: 28.215911347029614, Best Energy: 66.0, Accepted: 3706
+Time: 189822.910996 ms, Temperature: 27.933752233559318, Best Energy: 66.0, Accepted: 3746
+Time: 190348.251415 ms, Temperature: 27.654414711223723, Best Energy: 66.0, Accepted: 3800
+Time: 190869.360429 ms, Temperature: 27.377870564111486, Best Energy: 66.0, Accepted: 3747
+Time: 191394.870684 ms, Temperature: 27.104091858470373, Best Energy: 66.0, Accepted: 3789
+Time: 191923.658545 ms, Temperature: 26.83305093988567, Best Energy: 66.0, Accepted: 3705
+Time: 192445.026163 ms, Temperature: 26.564720430486812, Best Energy: 66.0, Accepted: 3739
+Time: 192970.809514 ms, Temperature: 26.299073226181942, Best Energy: 66.0, Accepted: 3821
+Time: 193493.588808 ms, Temperature: 26.036082493920123, Best Energy: 66.0, Accepted: 3773
+Time: 194016.179245 ms, Temperature: 25.77572166898092, Best Energy: 66.0, Accepted: 3750
+Time: 194535.588995 ms, Temperature: 25.51796445229111, Best Energy: 66.0, Accepted: 3757
+Time: 195051.023227 ms, Temperature: 25.2627848077682, Best Energy: 66.0, Accepted: 3714
+Time: 195564.77314 ms, Temperature: 25.010156959690516, Best Energy: 66.0, Accepted: 3730
+Time: 196093.400223 ms, Temperature: 24.760055390093612, Best Energy: 66.0, Accepted: 3754
+Time: 196616.476163 ms, Temperature: 24.512454836192674, Best Energy: 66.0, Accepted: 3711
+Time: 197143.802983 ms, Temperature: 24.26733028783075, Best Energy: 66.0, Accepted: 3743
+Time: 197677.978944 ms, Temperature: 24.02465698495244, Best Energy: 66.0, Accepted: 3741
+Time: 198208.64768 ms, Temperature: 23.784410415102915, Best Energy: 66.0, Accepted: 3672
+Time: 198739.984438 ms, Temperature: 23.546566310951885, Best Energy: 66.0, Accepted: 3717
+Time: 199266.708453 ms, Temperature: 23.311100647842366, Best Energy: 66.0, Accepted: 3680
+Time: 199787.789842 ms, Temperature: 23.077989641363942, Best Energy: 66.0, Accepted: 3670
+Time: 200308.140709 ms, Temperature: 22.8472097449503, Best Energy: 66.0, Accepted: 3717
+Time: 200830.376075 ms, Temperature: 22.618737647500797, Best Energy: 66.0, Accepted: 3722
+Time: 201350.863264 ms, Temperature: 22.39255027102579, Best Energy: 66.0, Accepted: 3670
+Time: 201880.286538 ms, Temperature: 22.16862476831553, Best Energy: 66.0, Accepted: 3681
+Time: 202404.294538 ms, Temperature: 21.946938520632376, Best Energy: 66.0, Accepted: 3761
+Time: 202923.196592 ms, Temperature: 21.727469135426052, Best Energy: 66.0, Accepted: 3707
+Time: 203445.533407 ms, Temperature: 21.51019444407179, Best Energy: 66.0, Accepted: 3660
+Time: 203968.126107 ms, Temperature: 21.29509249963107, Best Energy: 66.0, Accepted: 3613
+Time: 204500.964214 ms, Temperature: 21.08214157463476, Best Energy: 66.0, Accepted: 3659
+Time: 205025.569131 ms, Temperature: 20.871320158888413, Best Energy: 66.0, Accepted: 3667
+Time: 205547.372435 ms, Temperature: 20.662606957299527, Best Energy: 66.0, Accepted: 3748
+Time: 206077.288912 ms, Temperature: 20.455980887726533, Best Energy: 66.0, Accepted: 3674
+Time: 206614.87563 ms, Temperature: 20.251421078849265, Best Energy: 66.0, Accepted: 3662
+Time: 207141.208796 ms, Temperature: 20.048906868060772, Best Energy: 66.0, Accepted: 3633
+Time: 207672.474902 ms, Temperature: 19.848417799380165, Best Energy: 66.0, Accepted: 3607
+Time: 208202.292648 ms, Temperature: 19.649933621386364, Best Energy: 66.0, Accepted: 3595
+Time: 208734.817351 ms, Temperature: 19.4534342851725, Best Energy: 66.0, Accepted: 3677
+Time: 209265.299948 ms, Temperature: 19.258899942320774, Best Energy: 66.0, Accepted: 3673
+Time: 209787.007691 ms, Temperature: 19.066310942897566, Best Energy: 66.0, Accepted: 3652
+Time: 210311.94458 ms, Temperature: 18.87564783346859, Best Energy: 66.0, Accepted: 3625
+Time: 210837.667696 ms, Temperature: 18.686891355133906, Best Energy: 66.0, Accepted: 3639
+Time: 211368.09685 ms, Temperature: 18.500022441582566, Best Energy: 66.0, Accepted: 3640
+Time: 211891.039187 ms, Temperature: 18.31502221716674, Best Energy: 66.0, Accepted: 3568
+Time: 212412.852907 ms, Temperature: 18.13187199499507, Best Energy: 66.0, Accepted: 3621
+Time: 212935.237729 ms, Temperature: 17.95055327504512, Best Energy: 66.0, Accepted: 3565
+Time: 213466.84396 ms, Temperature: 17.77104774229467, Best Energy: 66.0, Accepted: 3591
+Time: 213986.818018 ms, Temperature: 17.59333726487172, Best Energy: 66.0, Accepted: 3511
+Time: 214510.136711 ms, Temperature: 17.417403892223003, Best Energy: 66.0, Accepted: 3599
+Time: 215028.727173 ms, Temperature: 17.24322985330077, Best Energy: 66.0, Accepted: 3602
+Time: 215582.869945 ms, Temperature: 17.070797554767765, Best Energy: 66.0, Accepted: 3609
+Time: 216159.856776 ms, Temperature: 16.900089579220086, Best Energy: 66.0, Accepted: 3554
+Time: 216772.177169 ms, Temperature: 16.731088683427885, Best Energy: 66.0, Accepted: 3545
+Time: 217383.726733 ms, Temperature: 16.563777796593605, Best Energy: 66.0, Accepted: 3548
+Time: 217965.172775 ms, Temperature: 16.398140018627668, Best Energy: 66.0, Accepted: 3523
+Time: 218561.790822 ms, Temperature: 16.23415861844139, Best Energy: 66.0, Accepted: 3529
+Time: 219180.040525 ms, Temperature: 16.071817032256977, Best Energy: 66.0, Accepted: 3528
+Time: 219755.842127 ms, Temperature: 15.911098861934407, Best Energy: 66.0, Accepted: 3505
+Time: 220341.982433 ms, Temperature: 15.751987873315063, Best Energy: 66.0, Accepted: 3571
+Time: 220867.022582 ms, Temperature: 15.594467994581912, Best Energy: 66.0, Accepted: 3555
+Time: 221385.184604 ms, Temperature: 15.438523314636093, Best Energy: 66.0, Accepted: 3499
+Time: 221916.367378 ms, Temperature: 15.284138081489733, Best Energy: 66.0, Accepted: 3522
+Time: 222445.009859 ms, Temperature: 15.131296700674834, Best Energy: 66.0, Accepted: 3482
+Time: 222972.788216 ms, Temperature: 14.979983733668085, Best Energy: 66.0, Accepted: 3489
+Time: 223501.043018 ms, Temperature: 14.830183896331404, Best Energy: 66.0, Accepted: 3487
+Time: 224034.858021 ms, Temperature: 14.681882057368089, Best Energy: 66.0, Accepted: 3496
+Time: 224564.406747 ms, Temperature: 14.535063236794407, Best Energy: 66.0, Accepted: 3490
+Time: 225090.873065 ms, Temperature: 14.389712604426464, Best Energy: 66.0, Accepted: 3531
+Time: 225621.861093 ms, Temperature: 14.245815478382198, Best Energy: 66.0, Accepted: 3425
+Time: 226150.298413 ms, Temperature: 14.103357323598376, Best Energy: 66.0, Accepted: 3484
+Time: 226670.447741 ms, Temperature: 13.962323750362392, Best Energy: 66.0, Accepted: 3488
+Time: 227195.778197 ms, Temperature: 13.822700512858768, Best Energy: 66.0, Accepted: 3460
+Time: 227723.547948 ms, Temperature: 13.68447350773018, Best Energy: 66.0, Accepted: 3475
+Time: 228263.839812 ms, Temperature: 13.547628772652878, Best Energy: 66.0, Accepted: 3488
+Time: 228779.669422 ms, Temperature: 13.412152484926349, Best Energy: 66.0, Accepted: 3461
+Time: 229300.846824 ms, Temperature: 13.278030960077086, Best Energy: 66.0, Accepted: 3410
+Time: 229827.58352 ms, Temperature: 13.145250650476315, Best Energy: 66.0, Accepted: 3402
+Time: 230347.381855 ms, Temperature: 13.013798143971552, Best Energy: 66.0, Accepted: 3445
+Time: 230867.895312 ms, Temperature: 12.883660162531838, Best Energy: 66.0, Accepted: 3428
+Time: 231388.416921 ms, Temperature: 12.75482356090652, Best Energy: 66.0, Accepted: 3414
+Time: 231912.433979 ms, Temperature: 12.627275325297454, Best Energy: 64.0, Accepted: 3387
+Time: 232439.583263 ms, Temperature: 12.501002572044479, Best Energy: 64.0, Accepted: 3429
+Time: 232967.555912 ms, Temperature: 12.375992546324035, Best Energy: 64.0, Accepted: 3356
+Time: 233491.423514 ms, Temperature: 12.252232620860795, Best Energy: 64.0, Accepted: 3378
+Time: 234022.374405 ms, Temperature: 12.129710294652186, Best Energy: 64.0, Accepted: 3368
+Time: 234551.271414 ms, Temperature: 12.008413191705664, Best Energy: 64.0, Accepted: 3350
+Time: 235082.672936 ms, Temperature: 11.888329059788607, Best Energy: 64.0, Accepted: 3358
+Time: 235602.799167 ms, Temperature: 11.769445769190721, Best Energy: 64.0, Accepted: 3310
+Time: 236121.920875 ms, Temperature: 11.651751311498813, Best Energy: 64.0, Accepted: 3401
+Time: 236652.27802 ms, Temperature: 11.535233798383825, Best Energy: 64.0, Accepted: 3343
+Time: 237181.729826 ms, Temperature: 11.419881460399987, Best Energy: 64.0, Accepted: 3321
+Time: 237709.2138 ms, Temperature: 11.305682645795986, Best Energy: 64.0, Accepted: 3346
+Time: 238235.549684 ms, Temperature: 11.192625819338026, Best Energy: 64.0, Accepted: 3317
+Time: 238769.391407 ms, Temperature: 11.080699561144646, Best Energy: 64.0, Accepted: 3339
+Time: 239294.67612 ms, Temperature: 10.9698925655332, Best Energy: 64.0, Accepted: 3325
+Time: 239818.544628 ms, Temperature: 10.860193639877869, Best Energy: 64.0, Accepted: 3297
+Time: 240343.372822 ms, Temperature: 10.75159170347909, Best Energy: 64.0, Accepted: 3292
+Time: 240861.867723 ms, Temperature: 10.644075786444299, Best Energy: 64.0, Accepted: 3275
+Time: 241377.027047 ms, Temperature: 10.537635028579857, Best Energy: 64.0, Accepted: 3266
+Time: 241899.787773 ms, Temperature: 10.432258678294058, Best Energy: 64.0, Accepted: 3290
+Time: 242416.460221 ms, Temperature: 10.327936091511118, Best Energy: 64.0, Accepted: 3286
+Time: 242935.552039 ms, Temperature: 10.224656730596006, Best Energy: 64.0, Accepted: 3297
+Time: 243462.084479 ms, Temperature: 10.122410163290047, Best Energy: 64.0, Accepted: 3238
+Time: 243991.470615 ms, Temperature: 10.021186061657145, Best Energy: 64.0, Accepted: 3184
+Time: 244511.037973 ms, Temperature: 9.920974201040574, Best Energy: 64.0, Accepted: 3195
+Time: 245037.730286 ms, Temperature: 9.821764459030168, Best Energy: 64.0, Accepted: 3245
+Time: 245562.361923 ms, Temperature: 9.723546814439867, Best Energy: 64.0, Accepted: 3175
+Time: 246081.62267 ms, Temperature: 9.626311346295468, Best Energy: 64.0, Accepted: 3167
+Time: 246605.823604 ms, Temperature: 9.530048232832513, Best Energy: 64.0, Accepted: 3223
+Time: 247126.900463 ms, Temperature: 9.434747750504188, Best Energy: 62.0, Accepted: 3225
+Time: 247647.911652 ms, Temperature: 9.340400272999146, Best Energy: 62.0, Accepted: 3224
+Time: 248161.592725 ms, Temperature: 9.246996270269154, Best Energy: 62.0, Accepted: 3164
+Time: 248671.657879 ms, Temperature: 9.154526307566462, Best Energy: 62.0, Accepted: 3190
+Time: 249195.786349 ms, Temperature: 9.062981044490797, Best Energy: 62.0, Accepted: 3165
+Time: 249709.056192 ms, Temperature: 8.97235123404589, Best Energy: 62.0, Accepted: 3066
+Time: 250220.489544 ms, Temperature: 8.88262772170543, Best Energy: 62.0, Accepted: 3143
+Time: 250745.968096 ms, Temperature: 8.793801444488377, Best Energy: 62.0, Accepted: 3147
+Time: 251272.462946 ms, Temperature: 8.705863430043493, Best Energy: 62.0, Accepted: 3096
+Time: 251795.865877 ms, Temperature: 8.618804795743058, Best Energy: 62.0, Accepted: 3118
+Time: 252322.434096 ms, Temperature: 8.532616747785628, Best Energy: 62.0, Accepted: 3082
+Time: 252845.106054 ms, Temperature: 8.447290580307772, Best Energy: 62.0, Accepted: 3093
+Time: 253372.816476 ms, Temperature: 8.362817674504694, Best Energy: 60.0, Accepted: 3151
+Time: 253894.435904 ms, Temperature: 8.279189497759647, Best Energy: 60.0, Accepted: 3104
+Time: 254422.240529 ms, Temperature: 8.196397602782051, Best Energy: 60.0, Accepted: 3055
+Time: 254947.002147 ms, Temperature: 8.11443362675423, Best Energy: 60.0, Accepted: 3024
+Time: 255475.626966 ms, Temperature: 8.033289290486689, Best Energy: 60.0, Accepted: 3038
+Time: 256004.129502 ms, Temperature: 7.952956397581822, Best Energy: 58.0, Accepted: 3051
+Time: 256530.435948 ms, Temperature: 7.873426833606004, Best Energy: 58.0, Accepted: 3061
+Time: 257049.407748 ms, Temperature: 7.794692565269944, Best Energy: 58.0, Accepted: 3012
+Time: 257564.056206 ms, Temperature: 7.716745639617245, Best Energy: 58.0, Accepted: 3048
+Time: 258087.632143 ms, Temperature: 7.639578183221072, Best Energy: 58.0, Accepted: 2984
+Time: 258609.308183 ms, Temperature: 7.563182401388861, Best Energy: 58.0, Accepted: 3044
+Time: 259128.706158 ms, Temperature: 7.487550577374972, Best Energy: 58.0, Accepted: 3007
+Time: 259649.544341 ms, Temperature: 7.412675071601223, Best Energy: 58.0, Accepted: 2947
+Time: 260171.786954 ms, Temperature: 7.33854832088521, Best Energy: 58.0, Accepted: 2994
+Time: 260693.520512 ms, Temperature: 7.265162837676358, Best Energy: 58.0, Accepted: 2986
+Time: 261209.101029 ms, Temperature: 7.192511209299594, Best Energy: 58.0, Accepted: 2930
+Time: 261724.839607 ms, Temperature: 7.120586097206599, Best Energy: 58.0, Accepted: 2955
+Time: 262241.050554 ms, Temperature: 7.049380236234533, Best Energy: 58.0, Accepted: 2962
+Time: 262757.04683 ms, Temperature: 6.978886433872187, Best Energy: 58.0, Accepted: 2983
+Time: 263279.270421 ms, Temperature: 6.909097569533465, Best Energy: 58.0, Accepted: 2945
+Time: 263799.678806 ms, Temperature: 6.8400065938381305, Best Energy: 58.0, Accepted: 2837
+Time: 264317.682768 ms, Temperature: 6.771606527899749, Best Energy: 58.0, Accepted: 2863
+Time: 264849.051228 ms, Temperature: 6.703890462620752, Best Energy: 58.0, Accepted: 2862
+Time: 265378.172874 ms, Temperature: 6.636851557994544, Best Energy: 58.0, Accepted: 2900
+Time: 265908.170419 ms, Temperature: 6.570483042414598, Best Energy: 50.0, Accepted: 2870
+Time: 266434.264456 ms, Temperature: 6.504778211990453, Best Energy: 50.0, Accepted: 2861
+Time: 266964.037365 ms, Temperature: 6.439730429870548, Best Energy: 50.0, Accepted: 2816
+Time: 267491.323424 ms, Temperature: 6.375333125571842, Best Energy: 50.0, Accepted: 2855
+Time: 268014.057429 ms, Temperature: 6.311579794316124, Best Energy: 50.0, Accepted: 2868
+Time: 268544.302255 ms, Temperature: 6.248463996372963, Best Energy: 50.0, Accepted: 2839
+Time: 269074.994089 ms, Temperature: 6.185979356409233, Best Energy: 50.0, Accepted: 2819
+Time: 269600.50525 ms, Temperature: 6.124119562845141, Best Energy: 50.0, Accepted: 2779
+Time: 270123.123766 ms, Temperature: 6.0628783672166895, Best Energy: 50.0, Accepted: 2821
+Time: 270649.540265 ms, Temperature: 6.002249583544523, Best Energy: 50.0, Accepted: 2851
+Time: 271166.094055 ms, Temperature: 5.942227087709077, Best Energy: 50.0, Accepted: 2776
+Time: 271675.050973 ms, Temperature: 5.882804816831986, Best Energy: 50.0, Accepted: 2779
+Time: 272193.213901 ms, Temperature: 5.823976768663666, Best Energy: 50.0, Accepted: 2757
+Time: 272702.92172 ms, Temperature: 5.76573700097703, Best Energy: 50.0, Accepted: 2740
+Time: 273220.532569 ms, Temperature: 5.7080796309672595, Best Energy: 50.0, Accepted: 2648
+Time: 273733.121257 ms, Temperature: 5.650998834657587, Best Energy: 50.0, Accepted: 2696
+Time: 274237.684634 ms, Temperature: 5.594488846311011, Best Energy: 50.0, Accepted: 2706
+Time: 274747.241186 ms, Temperature: 5.5385439578479, Best Energy: 50.0, Accepted: 2670
+Time: 275257.515124 ms, Temperature: 5.483158518269422, Best Energy: 50.0, Accepted: 2617
+Time: 275781.748213 ms, Temperature: 5.428326933086727, Best Energy: 50.0, Accepted: 2688
+Time: 276293.997683 ms, Temperature: 5.3740436637558595, Best Energy: 50.0, Accepted: 2622
+Time: 276813.560964 ms, Temperature: 5.320303227118301, Best Energy: 50.0, Accepted: 2639
+Time: 277331.978873 ms, Temperature: 5.267100194847118, Best Energy: 50.0, Accepted: 2643
+Time: 277842.575726 ms, Temperature: 5.214429192898647, Best Energy: 50.0, Accepted: 2655
+Time: 278357.998183 ms, Temperature: 5.16228490096966, Best Energy: 50.0, Accepted: 2620
+Time: 278871.970014 ms, Temperature: 5.110662051959964, Best Energy: 50.0, Accepted: 2567
+Time: 279389.965824 ms, Temperature: 5.059555431440364, Best Energy: 50.0, Accepted: 2547
+Time: 279908.734727 ms, Temperature: 5.00895987712596, Best Energy: 50.0, Accepted: 2533
+Time: 280429.880426 ms, Temperature: 4.9588702783547, Best Energy: 50.0, Accepted: 2583
+Time: 280982.167685 ms, Temperature: 4.909281575571153, Best Energy: 50.0, Accepted: 2531
+Time: 281563.429851 ms, Temperature: 4.860188759815442, Best Energy: 50.0, Accepted: 2523
+Time: 282158.60769 ms, Temperature: 4.811586872217287, Best Energy: 50.0, Accepted: 2539
+Time: 282751.523767 ms, Temperature: 4.763471003495114, Best Energy: 50.0, Accepted: 2538
+Time: 283335.759193 ms, Temperature: 4.715836293460163, Best Energy: 50.0, Accepted: 2520
+Time: 283935.848232 ms, Temperature: 4.668677930525561, Best Energy: 50.0, Accepted: 2501
+Time: 284527.775186 ms, Temperature: 4.621991151220306, Best Energy: 50.0, Accepted: 2450
+Time: 285105.593986 ms, Temperature: 4.575771239708103, Best Energy: 50.0, Accepted: 2496
+Time: 285712.716042 ms, Temperature: 4.530013527311022, Best Energy: 50.0, Accepted: 2504
+Time: 286252.35166 ms, Temperature: 4.484713392037912, Best Energy: 50.0, Accepted: 2423
+Time: 286768.245581 ms, Temperature: 4.439866258117532, Best Energy: 50.0, Accepted: 2444
+Time: 287303.253059 ms, Temperature: 4.395467595536357, Best Energy: 50.0, Accepted: 2380
+Time: 287835.449865 ms, Temperature: 4.351512919580993, Best Energy: 50.0, Accepted: 2361
+Time: 288362.352322 ms, Temperature: 4.307997790385183, Best Energy: 50.0, Accepted: 2352
+Time: 288889.67733 ms, Temperature: 4.264917812481332, Best Energy: 50.0, Accepted: 2377
+Time: 289409.43898 ms, Temperature: 4.222268634356518, Best Energy: 50.0, Accepted: 2371
+Time: 289931.483224 ms, Temperature: 4.180045948012953, Best Energy: 50.0, Accepted: 2307
+Time: 290456.055985 ms, Temperature: 4.1382454885328235, Best Energy: 50.0, Accepted: 2356
+Time: 290981.405009 ms, Temperature: 4.096863033647495, Best Energy: 50.0, Accepted: 2334
+Time: 291504.953773 ms, Temperature: 4.0558944033110205, Best Energy: 50.0, Accepted: 2331
+Time: 292028.540127 ms, Temperature: 4.01533545927791, Best Energy: 50.0, Accepted: 2303
+Time: 292552.847491 ms, Temperature: 3.975182104685131, Best Energy: 50.0, Accepted: 2259
+Time: 293074.149439 ms, Temperature: 3.9354302836382797, Best Energy: 50.0, Accepted: 2258
+Time: 293595.412891 ms, Temperature: 3.8960759808018968, Best Energy: 50.0, Accepted: 2181
+Time: 294110.6637 ms, Temperature: 3.8571152209938777, Best Energy: 48.0, Accepted: 2214
+Time: 294629.330701 ms, Temperature: 3.8185440687839387, Best Energy: 48.0, Accepted: 2255
+Time: 295138.055284 ms, Temperature: 3.7803586280960992, Best Energy: 48.0, Accepted: 2189
+Time: 295660.820538 ms, Temperature: 3.7425550418151383, Best Energy: 48.0, Accepted: 2176
+Time: 296170.513411 ms, Temperature: 3.705129491396987, Best Energy: 48.0, Accepted: 2100
+Time: 296684.7991 ms, Temperature: 3.668078196483017, Best Energy: 48.0, Accepted: 2131
+Time: 297206.111012 ms, Temperature: 3.6313974145181867, Best Energy: 48.0, Accepted: 2188
+Time: 297728.759419 ms, Temperature: 3.5950834403730045, Best Energy: 48.0, Accepted: 2113
+Time: 298255.83624 ms, Temperature: 3.5591326059692743, Best Energy: 48.0, Accepted: 2171
+Time: 298771.081614 ms, Temperature: 3.5235412799095815, Best Energy: 48.0, Accepted: 2117
+Time: 299288.840107 ms, Temperature: 3.4883058671104856, Best Energy: 48.0, Accepted: 2108
+Time: 299811.929634 ms, Temperature: 3.4534228084393805, Best Energy: 48.0, Accepted: 2021
+Time: 300364.821962 ms, Temperature: 3.4188885803549867, Best Energy: 48.0, Accepted: 2053
+Time: 300975.703505 ms, Temperature: 3.3846996945514367, Best Energy: 48.0, Accepted: 2067
+Time: 301585.732246 ms, Temperature: 3.3508526976059225, Best Energy: 48.0, Accepted: 1996
+Time: 302118.777779 ms, Temperature: 3.3173441706298634, Best Energy: 48.0, Accepted: 2036
+Time: 302643.449724 ms, Temperature: 3.2841707289235647, Best Energy: 48.0, Accepted: 2057
+Time: 303162.9496 ms, Temperature: 3.251329021634329, Best Energy: 48.0, Accepted: 1999
+Time: 303689.271444 ms, Temperature: 3.218815731417986, Best Energy: 48.0, Accepted: 1991
+Time: 304210.912159 ms, Temperature: 3.186627574103806, Best Energy: 48.0, Accepted: 2005
+Time: 304734.941898 ms, Temperature: 3.154761298362768, Best Energy: 44.0, Accepted: 1911
+Time: 305258.194015 ms, Temperature: 3.1232136853791403, Best Energy: 44.0, Accepted: 1913
+Time: 305785.192938 ms, Temperature: 3.091981548525349, Best Energy: 44.0, Accepted: 1900
+Time: 306307.701853 ms, Temperature: 3.0610617330400953, Best Energy: 44.0, Accepted: 1872
+Time: 306834.14145 ms, Temperature: 3.0304511157096945, Best Energy: 42.0, Accepted: 1873
+Time: 307353.463338 ms, Temperature: 3.0001466045525977, Best Energy: 42.0, Accepted: 1843
+Time: 307871.684237 ms, Temperature: 2.9701451385070716, Best Energy: 42.0, Accepted: 1873
+Time: 308386.068657 ms, Temperature: 2.9404436871220008, Best Energy: 42.0, Accepted: 1847
+Time: 308911.275924 ms, Temperature: 2.9110392502507807, Best Energy: 42.0, Accepted: 1828
+Time: 309432.945624 ms, Temperature: 2.8819288577482727, Best Energy: 42.0, Accepted: 1796
+Time: 309955.178273 ms, Temperature: 2.85310956917079, Best Energy: 42.0, Accepted: 1835
+Time: 310485.0635 ms, Temperature: 2.824578473479082, Best Energy: 42.0, Accepted: 1855
+Time: 311005.810651 ms, Temperature: 2.796332688744291, Best Energy: 42.0, Accepted: 1806
+Time: 311519.989456 ms, Temperature: 2.768369361856848, Best Energy: 42.0, Accepted: 1727
+Time: 312040.944486 ms, Temperature: 2.7406856682382794, Best Energy: 42.0, Accepted: 1755
+Time: 312553.805365 ms, Temperature: 2.7132788115558966, Best Energy: 42.0, Accepted: 1743
+Time: 313072.063854 ms, Temperature: 2.6861460234403376, Best Energy: 42.0, Accepted: 1713
+Time: 313587.796544 ms, Temperature: 2.6592845632059343, Best Energy: 42.0, Accepted: 1692
+Time: 314108.22531 ms, Temperature: 2.632691717573875, Best Energy: 42.0, Accepted: 1684
+Time: 314627.379174 ms, Temperature: 2.606364800398136, Best Energy: 42.0, Accepted: 1624
+Time: 315148.542989 ms, Temperature: 2.5803011523941546, Best Energy: 42.0, Accepted: 1666
+Time: 315666.349941 ms, Temperature: 2.554498140870213, Best Energy: 42.0, Accepted: 1624
+Time: 316184.950367 ms, Temperature: 2.5289531594615107, Best Energy: 42.0, Accepted: 1628
+Time: 316699.685328 ms, Temperature: 2.5036636278668953, Best Energy: 42.0, Accepted: 1626
+Time: 317206.646787 ms, Temperature: 2.4786269915882264, Best Energy: 42.0, Accepted: 1600
+Time: 317721.129485 ms, Temperature: 2.453840721672344, Best Energy: 38.0, Accepted: 1589
+Time: 318241.208162 ms, Temperature: 2.4293023144556205, Best Energy: 38.0, Accepted: 1591
+Time: 318758.753794 ms, Temperature: 2.4050092913110643, Best Energy: 38.0, Accepted: 1589
+Time: 319266.829377 ms, Temperature: 2.380959198397954, Best Energy: 38.0, Accepted: 1584
+Time: 319793.725492 ms, Temperature: 2.3571496064139743, Best Energy: 38.0, Accepted: 1603
+Time: 320312.583615 ms, Temperature: 2.3335781103498348, Best Energy: 38.0, Accepted: 1452
+Time: 320836.623318 ms, Temperature: 2.3102423292463365, Best Energy: 38.0, Accepted: 1469
+Time: 321353.731452 ms, Temperature: 2.287139905953873, Best Energy: 38.0, Accepted: 1435
+Time: 321867.946489 ms, Temperature: 2.2642685068943345, Best Energy: 34.0, Accepted: 1444
+Time: 322389.312748 ms, Temperature: 2.2416258218253913, Best Energy: 34.0, Accepted: 1456
+Time: 322915.411315 ms, Temperature: 2.219209563607137, Best Energy: 34.0, Accepted: 1382
+Time: 323440.081448 ms, Temperature: 2.1970174679710657, Best Energy: 34.0, Accepted: 1385
+Time: 323958.113943 ms, Temperature: 2.175047293291355, Best Energy: 34.0, Accepted: 1421
+Time: 324470.89647 ms, Temperature: 2.1532968203584413, Best Energy: 34.0, Accepted: 1375
+Time: 324986.255522 ms, Temperature: 2.1317638521548568, Best Energy: 34.0, Accepted: 1353
+Time: 325512.207803 ms, Temperature: 2.110446213633308, Best Energy: 34.0, Accepted: 1362
+Time: 326031.801881 ms, Temperature: 2.089341751496975, Best Energy: 34.0, Accepted: 1355
+Time: 326551.405471 ms, Temperature: 2.0684483339820052, Best Energy: 34.0, Accepted: 1325
+Time: 327071.676628 ms, Temperature: 2.0477638506421854, Best Energy: 34.0, Accepted: 1257
+Time: 327586.501716 ms, Temperature: 2.0272862121357633, Best Energy: 34.0, Accepted: 1321
+Time: 328110.016512 ms, Temperature: 2.0070133500144056, Best Energy: 34.0, Accepted: 1245
+Time: 328626.854721 ms, Temperature: 1.9869432165142615, Best Energy: 34.0, Accepted: 1278
+Time: 329140.209255 ms, Temperature: 1.9670737843491188, Best Energy: 34.0, Accepted: 1268
+Time: 329645.316107 ms, Temperature: 1.9474030465056276, Best Energy: 34.0, Accepted: 1259
+Time: 330162.768895 ms, Temperature: 1.9279290160405713, Best Energy: 34.0, Accepted: 1201
+Time: 330690.736562 ms, Temperature: 1.9086497258801656, Best Energy: 34.0, Accepted: 1217
+Time: 331205.766811 ms, Temperature: 1.889563228621364, Best Energy: 34.0, Accepted: 1218
+Time: 331716.189299 ms, Temperature: 1.8706675963351502, Best Energy: 34.0, Accepted: 1223
+Time: 332224.464156 ms, Temperature: 1.8519609203717986, Best Energy: 34.0, Accepted: 1096
+Time: 332737.583185 ms, Temperature: 1.8334413111680805, Best Energy: 34.0, Accepted: 1119
+Time: 333255.344848 ms, Temperature: 1.8151068980563998, Best Energy: 34.0, Accepted: 1119
+Time: 333778.395879 ms, Temperature: 1.7969558290758358, Best Energy: 30.0, Accepted: 1105
+Time: 334295.298852 ms, Temperature: 1.7789862707850774, Best Energy: 30.0, Accepted: 1084
+Time: 334820.836281 ms, Temperature: 1.7611964080772267, Best Energy: 30.0, Accepted: 1077
+Time: 335346.086573 ms, Temperature: 1.7435844439964543, Best Energy: 30.0, Accepted: 1092
+Time: 335872.317385 ms, Temperature: 1.7261485995564898, Best Energy: 30.0, Accepted: 1053
+Time: 336396.861161 ms, Temperature: 1.708887113560925, Best Energy: 30.0, Accepted: 1054
+Time: 336915.584774 ms, Temperature: 1.6917982424253157, Best Energy: 30.0, Accepted: 1040
+Time: 337431.261758 ms, Temperature: 1.6748802600010626, Best Energy: 30.0, Accepted: 987
+Time: 337937.084638 ms, Temperature: 1.658131457401052, Best Energy: 30.0, Accepted: 984
+Time: 338448.968167 ms, Temperature: 1.6415501428270414, Best Energy: 30.0, Accepted: 974
+Time: 338960.205868 ms, Temperature: 1.6251346413987708, Best Energy: 30.0, Accepted: 984
+Time: 339466.744776 ms, Temperature: 1.608883294984783, Best Energy: 30.0, Accepted: 930
+Time: 339969.870662 ms, Temperature: 1.5927944620349352, Best Energy: 28.0, Accepted: 902
+Time: 340479.906377 ms, Temperature: 1.576866517414586, Best Energy: 28.0, Accepted: 928
+Time: 340997.065688 ms, Temperature: 1.5610978522404402, Best Energy: 28.0, Accepted: 879
+Time: 341508.251306 ms, Temperature: 1.5454868737180358, Best Energy: 28.0, Accepted: 853
+Time: 342024.744408 ms, Temperature: 1.5300320049808556, Best Energy: 28.0, Accepted: 874
+Time: 342538.78508 ms, Temperature: 1.514731684931047, Best Energy: 28.0, Accepted: 887
+Time: 343051.861537 ms, Temperature: 1.4995843680817365, Best Energy: 28.0, Accepted: 803
+Time: 343565.17984 ms, Temperature: 1.4845885244009192, Best Energy: 28.0, Accepted: 823
+Time: 344072.57925 ms, Temperature: 1.46974263915691, Best Energy: 28.0, Accepted: 808
+Time: 344584.604989 ms, Temperature: 1.4550452127653408, Best Energy: 28.0, Accepted: 865
+Time: 345098.733069 ms, Temperature: 1.4404947606376874, Best Energy: 28.0, Accepted: 813
+Time: 345621.307654 ms, Temperature: 1.4260898130313107, Best Energy: 28.0, Accepted: 800
+Time: 346132.510482 ms, Temperature: 1.4118289149009975, Best Energy: 28.0, Accepted: 784
+Time: 346684.458522 ms, Temperature: 1.3977106257519876, Best Energy: 28.0, Accepted: 743
+Time: 347245.560943 ms, Temperature: 1.3837335194944678, Best Energy: 28.0, Accepted: 738
+Time: 347818.235753 ms, Temperature: 1.369896184299523, Best Energy: 26.0, Accepted: 696
+Time: 348453.451835 ms, Temperature: 1.3561972224565277, Best Energy: 22.0, Accepted: 688
+Time: 349057.335687 ms, Temperature: 1.3426352502319625, Best Energy: 22.0, Accepted: 678
+Time: 349585.601359 ms, Temperature: 1.3292088977296428, Best Energy: 22.0, Accepted: 693
+Time: 350139.595582 ms, Temperature: 1.3159168087523463, Best Energy: 22.0, Accepted: 663
+Time: 350693.583011 ms, Temperature: 1.302757640664823, Best Energy: 22.0, Accepted: 633
+Time: 351261.844354 ms, Temperature: 1.2897300642581746, Best Energy: 22.0, Accepted: 635
+Time: 351770.884152 ms, Temperature: 1.276832763615593, Best Energy: 22.0, Accepted: 618
+Time: 352271.835685 ms, Temperature: 1.264064435979437, Best Energy: 22.0, Accepted: 608
+Time: 352775.367366 ms, Temperature: 1.2514237916196427, Best Energy: 22.0, Accepted: 615
+Time: 353286.287587 ms, Temperature: 1.2389095537034462, Best Energy: 22.0, Accepted: 622
+Time: 353795.378109 ms, Temperature: 1.2265204581664118, Best Energy: 22.0, Accepted: 576
+Time: 354298.865405 ms, Temperature: 1.2142552535847477, Best Energy: 22.0, Accepted: 572
+Time: 354821.83401 ms, Temperature: 1.2021127010489003, Best Energy: 22.0, Accepted: 561
+Time: 355328.466214 ms, Temperature: 1.1900915740384113, Best Energy: 20.0, Accepted: 535
+Time: 355841.578903 ms, Temperature: 1.178190658298027, Best Energy: 20.0, Accepted: 545
+Time: 356357.628167 ms, Temperature: 1.1664087517150468, Best Energy: 20.0, Accepted: 549
+Time: 356868.671575 ms, Temperature: 1.1547446641978962, Best Energy: 20.0, Accepted: 497
+Time: 357382.983984 ms, Temperature: 1.1431972175559173, Best Energy: 20.0, Accepted: 471
+Time: 357894.696319 ms, Temperature: 1.1317652453803582, Best Energy: 20.0, Accepted: 502
+Time: 358406.007389 ms, Temperature: 1.1204475929265545, Best Energy: 20.0, Accepted: 493
+Time: 358928.409874 ms, Temperature: 1.109243116997289, Best Energy: 20.0, Accepted: 489
+Time: 359436.421145 ms, Temperature: 1.098150685827316, Best Energy: 20.0, Accepted: 451
+Time: 359946.420629 ms, Temperature: 1.0871691789690427, Best Energy: 20.0, Accepted: 467
+Time: 360458.416477 ms, Temperature: 1.0762974871793523, Best Energy: 20.0, Accepted: 432
+Time: 360979.433101 ms, Temperature: 1.0655345123075588, Best Energy: 16.0, Accepted: 415
+Time: 361490.612378 ms, Temperature: 1.0548791671844833, Best Energy: 16.0, Accepted: 432
+Time: 361995.885895 ms, Temperature: 1.0443303755126385, Best Energy: 16.0, Accepted: 405
+Time: 362498.108707 ms, Temperature: 1.0338870717575122, Best Energy: 16.0, Accepted: 384
+Time: 363001.70017 ms, Temperature: 1.023548201039937, Best Energy: 16.0, Accepted: 377
+Time: 363534.417807 ms, Temperature: 1.0133127190295377, Best Energy: 16.0, Accepted: 373
+Time: 364048.67768 ms, Temperature: 1.0031795918392423, Best Energy: 16.0, Accepted: 337
+Time: 364551.057194 ms, Temperature: 0.9931477959208499, Best Energy: 16.0, Accepted: 372
+Time: 365050.150497 ms, Temperature: 0.9832163179616414, Best Energy: 16.0, Accepted: 359
+Time: 365553.755999 ms, Temperature: 0.973384154782025, Best Energy: 16.0, Accepted: 335
+Time: 366070.271746 ms, Temperature: 0.9636503132342047, Best Energy: 16.0, Accepted: 350
+Time: 366575.733215 ms, Temperature: 0.9540138101018626, Best Energy: 16.0, Accepted: 333
+Time: 367074.498621 ms, Temperature: 0.944473672000844, Best Energy: 16.0, Accepted: 322
+Time: 367586.26304 ms, Temperature: 0.9350289352808355, Best Energy: 14.0, Accepted: 295
+Time: 368101.992107 ms, Temperature: 0.9256786459280272, Best Energy: 14.0, Accepted: 277
+Time: 368601.502979 ms, Temperature: 0.9164218594687469, Best Energy: 14.0, Accepted: 285
+Time: 369110.150116 ms, Temperature: 0.9072576408740594, Best Energy: 14.0, Accepted: 281
+Time: 369609.762891 ms, Temperature: 0.8981850644653188, Best Energy: 14.0, Accepted: 251
+Time: 370126.400919 ms, Temperature: 0.8892032138206656, Best Energy: 14.0, Accepted: 281
+Time: 370624.619228 ms, Temperature: 0.8803111816824589, Best Energy: 14.0, Accepted: 260
+Time: 371134.956571 ms, Temperature: 0.8715080698656343, Best Energy: 14.0, Accepted: 262
+Time: 371645.953784 ms, Temperature: 0.862792989166978, Best Energy: 14.0, Accepted: 287
+Time: 372159.834131 ms, Temperature: 0.8541650592753082, Best Energy: 14.0, Accepted: 215
+Time: 372674.961753 ms, Temperature: 0.845623408682555, Best Energy: 14.0, Accepted: 240
+Time: 373179.825399 ms, Temperature: 0.8371671745957294, Best Energy: 14.0, Accepted: 223
+Time: 373678.282837 ms, Temperature: 0.8287955028497721, Best Energy: 14.0, Accepted: 225
+Time: 374188.912751 ms, Temperature: 0.8205075478212743, Best Energy: 14.0, Accepted: 194
+Time: 374691.352953 ms, Temperature: 0.8123024723430616, Best Energy: 10.0, Accepted: 188
+Time: 375208.659003 ms, Temperature: 0.804179447619631, Best Energy: 8.0, Accepted: 182
+Time: 375727.25037 ms, Temperature: 0.7961376531434347, Best Energy: 8.0, Accepted: 176
+Time: 376243.602169 ms, Temperature: 0.7881762766120003, Best Energy: 8.0, Accepted: 195
+Time: 376753.100297 ms, Temperature: 0.7802945138458803, Best Energy: 8.0, Accepted: 174
+Time: 377258.541386 ms, Temperature: 0.7724915687074215, Best Energy: 8.0, Accepted: 147
+Time: 377758.010139 ms, Temperature: 0.7647666530203473, Best Energy: 8.0, Accepted: 162
+Time: 378267.680368 ms, Temperature: 0.7571189864901439, Best Energy: 8.0, Accepted: 167
+Time: 378769.06487 ms, Temperature: 0.7495477966252424, Best Energy: 8.0, Accepted: 168
+Time: 379269.266408 ms, Temperature: 0.74205231865899, Best Energy: 8.0, Accepted: 157
+Time: 379765.705289 ms, Temperature: 0.7346317954724001, Best Energy: 8.0, Accepted: 165
+Time: 380277.171249 ms, Temperature: 0.7272854775176761, Best Energy: 6.0, Accepted: 107
+Time: 380778.265898 ms, Temperature: 0.7200126227424993, Best Energy: 6.0, Accepted: 146
+Time: 381285.397194 ms, Temperature: 0.7128124965150743, Best Energy: 6.0, Accepted: 112
+Time: 381790.175696 ms, Temperature: 0.7056843715499236, Best Energy: 6.0, Accepted: 122
+Time: 382289.376788 ms, Temperature: 0.6986275278344244, Best Energy: 6.0, Accepted: 104
+Time: 382793.440621 ms, Temperature: 0.6916412525560801, Best Energy: 6.0, Accepted: 110
+Time: 383299.825997 ms, Temperature: 0.6847248400305193, Best Energy: 6.0, Accepted: 124
+Time: 383806.077316 ms, Temperature: 0.6778775916302141, Best Energy: 6.0, Accepted: 104
+Time: 384315.984409 ms, Temperature: 0.671098815713912, Best Energy: 6.0, Accepted: 104
+Time: 384820.290541 ms, Temperature: 0.6643878275567728, Best Energy: 2.0, Accepted: 101
+Time: 385326.135613 ms, Temperature: 0.657743949281205, Best Energy: 2.0, Accepted: 70
+Time: 385831.58123 ms, Temperature: 0.651166509788393, Best Energy: 2.0, Accepted: 84
+Time: 386333.633301 ms, Temperature: 0.644654844690509, Best Energy: 2.0, Accepted: 79
+Time: 386842.493299 ms, Temperature: 0.638208296243604, Best Energy: 2.0, Accepted: 82
+Time: 387345.010493 ms, Temperature: 0.631826213281168, Best Energy: 2.0, Accepted: 79
+Time: 387843.836588 ms, Temperature: 0.6255079511483562, Best Energy: 2.0, Accepted: 86
+Time: 388351.928022 ms, Temperature: 0.6192528716368727, Best Energy: 2.0, Accepted: 69
+Time: 388855.434793 ms, Temperature: 0.6130603429205039, Best Energy: 2.0, Accepted: 84
+Time: 389363.611372 ms, Temperature: 0.6069297394912989, Best Energy: 2.0, Accepted: 72
+Time: 389865.880832 ms, Temperature: 0.6008604420963859, Best Energy: 2.0, Accepted: 64
+Time: 390372.697365 ms, Temperature: 0.594851837675422, Best Energy: 2.0, Accepted: 69
+Time: 390873.005787 ms, Temperature: 0.5889033192986678, Best Energy: 2.0, Accepted: 71
+Time: 391388.087213 ms, Temperature: 0.5830142861056811, Best Energy: 2.0, Accepted: 46
+Time: 391903.42226 ms, Temperature: 0.5771841432446243, Best Energy: 2.0, Accepted: 44
+Time: 392407.486546 ms, Temperature: 0.5714123018121781, Best Energy: 2.0, Accepted: 51
+Time: 392913.255079 ms, Temperature: 0.5656981787940563, Best Energy: 2.0, Accepted: 48
+Time: 393430.353249 ms, Temperature: 0.5600411970061157, Best Energy: 2.0, Accepted: 53
+Time: 393946.143457 ms, Temperature: 0.5544407850360545, Best Energy: 2.0, Accepted: 53
+Time: 394452.30782 ms, Temperature: 0.548896377185694, Best Energy: 2.0, Accepted: 34
+Time: 394953.379824 ms, Temperature: 0.543407413413837, Best Energy: 2.0, Accepted: 43
+Time: 395461.41057 ms, Temperature: 0.5379733392796987, Best Energy: 2.0, Accepted: 35
+Time: 395966.07766 ms, Temperature: 0.5325936058869017, Best Energy: 0.0, Accepted: 25
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - 
+- - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
++ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - 
+- + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - 
+[77, 32, 34, 27, 31, 19, 84, 4, 50, 35, 49, 14, 57, 92, 25, 66, 6, 89, 24, 12, 74, 29, 10, 52, 3, 9, 69, 87, 95, 45, 48, 41, 93, 67, 96, 63, 85, 20, 38, 83, 97, 71, 44, 58, 5, 70, 82, 23, 17, 62, 21, 42, 75, 73, 28, 8, 11, 79, 22, 2, 81, 99, 54, 33, 0, 64, 51, 53, 80, 86, 15, 78, 30, 40, 68, 56, 13, 26, 55, 39, 60, 7, 91, 1, 88, 47, 59, 65, 36, 76, 18, 16, 46, 98, 90, 61, 43, 72, 37, 94]
+Energy: 0.0

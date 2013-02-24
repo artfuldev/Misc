@@ -22,3 +22,7 @@ My first attempt at trying out multi-threading in java. Using nested classes, an
 ###Design and Simulation of a Robotic Hand
 ####Robotics Hand - Thumb.oxps
 An XPS document containing the design of a robotic hand (simulated using Workspace 5 Demo). As Workspace 5 only allows for serial manipulators, a complete robotic hand having 5 fingers as 5 end-effectors could not be modelled, as it will be a parallel manipulator. Hence the design was stopped with the Robotic Hand having a thumb alone. It is plain to note that the other fingers may be modelled the same way.
+
+###A Solution to N-Queens Problem using Simulated Annealing
+####NQueensSolutionGenerator.java
+Simulated Annealing (SA) is an AI technique which can be used in a variety of scenarios. It has been used to solve a generic n-Queens Problem. An n-Queens Problem is the problem of placing n queens on an nxn board such that no queen can capture any other queen in its immediate move according to the rules of chess. Using SA, the written Java program can solve the n-Queens problem for upto n=2,147,483,647 (which is simply the upper limit of signed integers in java), and display the result both graphically and using row indices from 0 to n in columns from 0 to n. A sample output is present in [nQueens.sample](nQueens.sample)
