@@ -1,8 +1,8 @@
 #Misc
 For all projects and source code under this repository,
 * Author: Kenshin Himura *(Sudarsan Balaji)*
-* License: *GNU GPL v3* (see COPYING.txt)
-* ReadMe Version: 1.2
+* License: *GNU GPL v3* (see COPYING.texi)
+* ReadMe Version: 1.3
 
 ##Description
 After thinking about it a while, I finally got it. There are tons of small things we do, worth showing to the world that we do know how to do those things, but we can't showcase them as a big project. You know, like, single-file projects? Still, they need their own explanations and readme's.
