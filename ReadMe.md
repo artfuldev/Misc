@@ -1,6 +1,6 @@
 #Misc
 For all projects and source code under this repository,
-* Author: Kenshin Himura *(Sudarsan Balaji)*
+* Author: Kenshin The Battōsai *(Sudarsan Balaji)*
 * License: *GNU GPL v3* (see COPYING.texi)
 * ReadMe Version: 1.3
 
